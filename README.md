@@ -1,6 +1,4 @@
 # eadsjd.github.io
-<html>
- <head>
   <title>Dalton's Cyberspace</title>
  <Learning Student>
  <I am a Computer Science Major here at USC Aiken and an Air Force Veteran>
